@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node parte-1/app.js"
+    "start": "node parte-2/app.js"
+    
   },
   "keywords": [],
   "author": "",
