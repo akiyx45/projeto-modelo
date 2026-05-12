@@ -4,13 +4,13 @@ function criarCliente(nome, email, categoria) {
     return {
         nome: nome,
         email: email,
-        categoria: categoria, //vip ou comum
+        categoria: categoria, //VIP OU COMUM
     }
 }
 
 function cadastrarCliente(cliente) {
     listaClientes.push(cliente)
-    console.log("Sucesso! Cliente cadastrado.")
+    console.log("Sucesso! Cliente cadastrado")
 }
 
 function listarClientes() {
